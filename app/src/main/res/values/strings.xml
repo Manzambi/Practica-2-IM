@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">ManagerPassword App</string>
+
+
+    <!---Drawer menu-->
+    <string name="opcion_todas">Todas</string>
+    <string name="opcion_ajustes">Ajustes</string>
+    <string name="salir">Salir</string>
+
+
+    <!-- FAB-->
+    <string name="FAB_AgregarPassword">Agregar</string>
+
+    <!-- drawer Layout-->
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--diseño agregar passwors-->
+    <string name="EtTitulo">Titulo</string>
+    <string name="Ecuenta">Cuenta</string>
+    <string name="EtNombreUsuario">Nombre de Usuario</string>
+    <string name="EtPassWord">Contraseña</string>
+    <string name="etSitioWeb">Sitio Web</string>
+    <string name="EtNota">Nota</string>
+    <string name="Btn_Adjuntar_Imagen">Adjuntar imagen</string>
+
+    <!--Item Password-->
+    <string name="Item_titulo">Titulo</string>
+    <string name="Item_cuenta">Cuenta</string>
+    <string name="Item_nombre_usuario">Nombre de Usuario</string>
+    <string name="Item_password">Password</string>
+    <string name="Item_sitio_web">Sitio Web</string>
+    <string name="Item_nota">Nota</string>
+
+    <!--Menu fragmento todas-->
+    <string name="Menu_Numero_Registros">Numero de registro</string>
+    <string name="Menu_Buscar_registros">Buscar registros</string>
+
+    <!--Cuadro de dialogo-->
+    <string name="TxtTotal">Total de Registros</string>
+    <string name="Total">--</string>
+    <string name="btnEntendidoTotal">Entendido</string>
+
+
+    <!--Detalle registro-->
+    <string name="Txt_D_Titulo">Título: </string>
+    <string name="D_Titulo"> -- </string>
+    <string name="Txt_D_Cuenta">Cuenta: </string>
+    <string name="D_Cuenta"> -- </string>
+    <string name="Txt_D_NombreUsuario">Nombre de usuario: </string>
+    <string name="D_NombreUsuario"> -- </string>
+    <string name="Txt_D_Password">Contraseña: </string>
+    <string name="D_Password"> -- </string>
+    <string name="Txt_D_SitioWeb">Sitio web: </string>
+    <string name="D_SitioWeb"> -- </string>
+    <string name="Txt_D_Nota">Nota: </string>
+    <string name="D_Nota"> -- </string>
+    <string name="Txt_D_Tiempo_registro">Tiempo de registro: </string>
+    <string name="D_Tiempo_registro"> -- </string>
+    <string name="Txt_D_Tiempo_actualizacion">Tiempo de actualización: </string>>
+    <string name="D_Tiempo_actualizacion"> -- </string>
+
+
+    <!--Cuadro de diálogo editar - eliminar registro-->
+    <string name="Btn_Editar_Registro">Editar</string>
+    <string name="Btn_Eliminar_Registro">Eliminar</string>
+    <string name="menu_Ordenar_registros">Ordenar registros</string>
+
+    <!--Cuadro de diálogo - ordenar registros-->
+    <string name="Btn_Nuevos">Nuevos</string>
+    <string name="Btn_Pasados">Pasados</string>
+    <string name="Btn_Asc">A-Z</string>
+    <string name="Btn_Des">Z-A</string>
+
+    <!--Menu agregar Password-->
+    <string name="Guardar_Password">Guardar</string>
+
+    <!--Ajustes-->
+    <string name="Txt_Ajustes">Ajustes</string>
+    <string name="Eliminar_Todos_Registros">Eliminar todos los registros</string>
+    <string name="Exportar_Archivo">Exportar archivo CSV</string>
+    <string name="Importar_Archivo">Importar archivo CSV</string>
+    <string name="Cambiar_password_maestra">Cambiar contraseña maestra</string>
+
+    <!--Cuadro de diálogo mensaje-->
+    <string name="Pregunta_Txt">¿Estás seguro(a) de eliminar todos los registros?</string>
+    <string name="Btn_Si">Si, estoy de acuerdo</string>
+    <string name="Btn_Cancelar">Cancelar</string>
+    <string name="Btn_cerrar_imagen">Cerrar</string>
+
+    <!--Registro-->
+    <string name="TXTBienvenidos">¡Bienvenidos(as)!</string>
+    <string name="TXTMensaje">Por favor introduzca una contraseña maestra</string>
+    <string name="EtPasswordU">Contraseña</string>
+    <string name="EtCPassword">Confirmar contraseña</string>
+    <string name="BtnRegistrar">Registrar</string>
+
+    <!--Login-->
+    <string name="BtnIngresar">Ingresar</string>
+
+
+    <!--Inicio sesión biométrico-->
+    <string name="TXT_otro_metodo">Otro método</string>
+    <string name="BtnInicioSesionBiometrico">Autenticación biométrica</string>
+
+
+</resources>
