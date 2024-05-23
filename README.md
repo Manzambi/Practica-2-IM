@@ -16,6 +16,6 @@ Gestión de Contraseñas: La aplicación permite a los usuarios crear, editar, a
 
 Almacenamiento Seguro: Todas las contraseñas se almacenan de forma segura utilizando técnicas de cifrado avanzadas para proteger la información confidencial del usuario. Se implementan medidas adicionales de seguridad, como la autenticación de dos factores, para garantizar la integridad de los datos.
 
-    Búsqueda y Filtrado: Los usuarios pueden buscar contraseñas específicas utilizando filtros por título, nombre de cuenta o sitio web. Esto facilita la rápida recuperación de contraseñas cuando sea necesario.
+Búsqueda y Filtrado: Los usuarios pueden buscar contraseñas específicas utilizando filtros por título, nombre de cuenta o sitio web. Esto facilita la rápida recuperación de contraseñas cuando sea necesario.
 
-    Interfaz Intuitiva: La aplicación cuenta con una interfaz de usuario intuitiva y fácil de navegar que proporciona una experiencia fluida para los usuarios, desde la creación de contraseñas hasta su gestión y uso diario.
+Interfaz Intuitiva: La aplicación cuenta con una interfaz de usuario intuitiva y fácil de navegar que proporciona una experiencia fluida para los usuarios, desde la creación de contraseñas hasta su gestión y uso diario.
